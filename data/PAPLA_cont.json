@@ -1,0 +1,76 @@
+{
+    "Distribution": "2n",
+    "LambdaForEgoism": 0.0,
+    "MultilevelDeath1Percent": 0.0,
+    "NumberOfCells": 100,
+    "NumberOfRsrcsInEachCell": 100,
+    "initFile": "PAPLA",
+    "numGen": 10,
+    "outDir": null,
+    "outFName": null,
+    "saveExcel": false,
+    "setRandomSeed": 2,
+    "species": [
+        {
+            "AssociatedSpecies": [],
+            "DirectOffspring": 2,
+            "Distribution": "2n",
+            "FitnessVariationLimit": 0,
+            "GroupPartner": [
+                "PA"
+            ],
+            "IndirectOffspring": 0,
+            "NumberOfItems": 9543,
+            "PhenotypicFlexibility": 1.0,
+            "id": "Asg"
+        },
+        {
+            "AssociatedSpecies": [],
+            "DirectOffspring": 2,
+            "Distribution": "2n",
+            "FitnessVariationLimit": 0,
+            "GroupPartner": [],
+            "IndirectOffspring": 0,
+            "NumberOfItems": 9560,
+            "PhenotypicFlexibility": 0.0,
+            "id": "PA"
+        },
+        {
+            "AssociatedSpecies": [],
+            "DirectOffspring": 3,
+            "Distribution": "2n",
+            "FitnessVariationLimit": 0,
+            "GroupPartner": [],
+            "IndirectOffspring": 0,
+            "NumberOfItems": 0,
+            "PhenotypicFlexibility": 0.0,
+            "id": "Asg|PA"
+        },
+        {
+            "AssociatedSpecies": [],
+            "DirectOffspring": 3,
+            "Distribution": "2n",
+            "FitnessVariationLimit": 0,
+            "GroupPartner": [],
+            "IndirectOffspring": 0,
+            "NumberOfItems": 0,
+            "PhenotypicFlexibility": 0.0,
+            "id": "PAPLA|PA"
+        },
+        {
+            "AssociatedSpecies": [],
+            "DirectOffspring": 2,
+            "Distribution": "2n",
+            "FitnessVariationLimit": 0,
+            "GroupPartner": [
+                "PA"
+            ],
+            "IndirectOffspring": 0,
+            "NumberOfItems": 51,
+            "PhenotypicFlexibility": 1.0,
+            "id": "PAPLA"
+        }
+    ],
+    "varia": false,
+    "verbose": false
+}
